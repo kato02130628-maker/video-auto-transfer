@@ -1,0 +1,24 @@
+# Google Drive API
+google-auth-oauthlib==1.2.0
+google-auth-httplib2==0.2.0
+google-api-python-client==2.108.0
+requests==2.32.3
+
+# File Monitoring
+watchdog==4.0.0
+
+# Excel Support
+openpyxl==3.1.2
+
+# macOS Menu Bar Application
+rumps==0.3.0
+
+# Utilities
+python-dateutil==2.8.2
+
+# macOS Native Features (optional, for advanced features)
+# pyobjc==10.3
+
+# Build Tools (optional, only needed for building)
+# py2app==0.28
+# Pillow==10.0.0  # For icon generation

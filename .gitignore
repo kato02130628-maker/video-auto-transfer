@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+PIPFILE.lock
+
+# Virtual environments
+venv/
+venv_macos/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Google Drive API
+token.json
+credentials_local.json
+
+# Logs
+*.log
+logs/
+Video Transfer-logs/
+video-transfer-logs/
+
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+*.dSYM/
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Build artifacts
+*.app/
+*.dmg
+*.pkg
+
+# iconset
+macos/icon.iconset/
+macos/icon.icns
+macos/icon.png
